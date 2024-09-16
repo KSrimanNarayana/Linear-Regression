@@ -1,4 +1,5 @@
-# Linear-Regression
+# Graduate Admissions Predictor
+#### predict one's chances of admission given the rest of the variables.
 ### overview
 This project focuses on understanding the key factors influencing graduate admissions and how these factors interrelate. By analyzing historical admission data, the goal is to predict an applicant's chances of admission based on variables such as:
 
